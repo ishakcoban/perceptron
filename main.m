@@ -1,4 +1,4 @@
-load('bim488_hw2.mat')
+load('classes.mat')
 
 w_init1 = [1, 1, -0.5]';
 w_init2 = [1, 1, 0.5]';
